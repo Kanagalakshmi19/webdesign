@@ -1,0 +1,128 @@
+#container{
+    background-color:  white;
+    height:900px;
+    width: 70%;
+    margin:0px auto;
+ }
+ #header h1{
+     color:black;
+     font-size: xx-large;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     padding-left: 70px;
+     line-height:4;
+ }
+ #header ul {
+    float:right;
+    position:absolute;
+    top:65px;
+    margin-left: 400px;   
+}
+#header ul li{
+    display: inline;
+    margin-right:30px;
+}
+#header ul li a
+{ 
+    color:darkgray;
+    text-decoration: none;  
+}
+#banner
+{ position: relative;
+    bottom: 40px;
+}
+#bottom1
+{
+    width:60%;
+    background-color: white;
+    height:545px;
+    float:left;
+    
+}
+#bottom2
+{
+    width: 40%;
+    background-color: white;
+    height:545px;
+    float:right;
+ 
+}
+#bottom1 h
+{
+    color:black;
+    font-size: 30px;
+    margin-left: 60px;
+    margin-right: 20px;
+}
+#bottom1 p{
+    color:black;
+    margin-left:60px;
+}
+#bottom1 a{
+    margin-left:60px;
+    color:black;
+    text-decoration: none;
+
+}
+#bottom1 a h7{
+      color:red;
+}
+#bottom2 h{
+    color:black;
+    margin-left: 150px; 
+}
+#bottom2 img {
+        margin-left: 80px;
+        margin-top: 14px;
+
+}
+#bottom2 p{
+    margin-left: 60px;
+    margin-right: 20px;
+}
+#bottom2 p a
+{
+    color:red;
+    text-decoration: none;
+}
+#bottom2 .fa {
+  padding: 5px;
+  font-size: 26px;
+  width: 24px;
+  text-decoration: none;
+ margin: 10px 2px;
+
+}
+#bottom2.fa:hover {
+    opacity: 0.7;
+}
+#bottom2 .fa-facebook
+{
+background-color:gray;
+color:lightgray;
+margin-left:70px;
+}
+#bottom2 .fa-google
+{
+background-color:gray;
+color:lightgray;
+}
+#bottom2 .fa-instagram
+{
+background-color:grey;
+color:lightgray;
+}
+#bottom2 .fa-pinterest
+{
+background-color:gray;
+color:lightgray;
+}
+#bottom2 .fa-rss
+{
+background-color:gray;
+color:lightgray;   
+}
+#bottom2 .fa-twitter
+{
+background-color:gray;
+color:lightgray;   
+}
